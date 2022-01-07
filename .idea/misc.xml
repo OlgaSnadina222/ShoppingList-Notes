@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_baseline_format_color_text_24.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_color.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_delete.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_new_shop_item.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_note.xml" value="0.37083333333333335" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_save.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_text_context.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_text_title.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_theme.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/drawable/ic_time_format.xml" value="0.3828125" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/activity_new_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/activity_settings.xml" value="0.3546875" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/activity_shop_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/delete_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/edit_action_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/edit_list_item_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/fragment_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/fragment_shop_list_names.xml" value="0.3625" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/list_name_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/new_list_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/note_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/shop_library_item.xml" value="0.33" />
+        <entry key="..\:/ShopingList/app/src/main/res/layout/shop_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/menu/new_note_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/menu/shop_list_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/ShopingList/app/src/main/res/xml/settings_preferance.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
